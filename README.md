@@ -1,34 +1,22 @@
 # personal-finance-tracker
-Personal Finance Tracker is a web-based backend application developed using Spring Boot and MySQL. The application allows users to manage daily expenses by performing CRUD operations through RESTful APIs.  The project focuses on backend development, layered architecture, and database integration.
-🛠 Tech Stack Used
-🔹 Backend
 
-Java
 
-Spring Boot
+A web-based expense management application built using Spring Boot and MySQL.
 
-Spring Web
+## Features
+- Add Expense
+- View Expenses
+- Update Expense
+- Delete Expense
 
-Spring Data JPA
+## Technologies Used
+- Java
+- Spring Boot
+- JPA / Hibernate
+- MySQL
+- REST APIs
 
-Hibernate (ORM)
+## Tools
+- IntelliJ IDEA
+- Postman
 
-🔹 Database
-
-MySQL
-
-🔹 API Testing
-
-Postman
-
-🔹 Build Tool
-
-Maven
-
-🔹 IDE
-
-IntelliJ IDEA
-
-🔹 Version Control
-
-Git & GitHub
